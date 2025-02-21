@@ -10,8 +10,8 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
     Docker Desktop: Instalado y configurado para ejecutar contenedores de Windows.
     Windows 10/11 o una versión compatible con contenedores Docker para Windows.
     PowerShell: Para ejecutar los comandos necesarios en la terminal de Windows.
-4. ### 1. Crear el directorio del proyecto
-5. Crea un directorio para el proyecto. Puedes hacerlo ejecutando:
+ ### 1. Crear el directorio del proyecto
+ Crea un directorio para el proyecto. Puedes hacerlo ejecutando:
 
 ```bash
 mkdir iis-docker
